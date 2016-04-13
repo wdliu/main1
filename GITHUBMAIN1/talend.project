@@ -302,9 +302,9 @@
     <migrationTask xmi:id="_1i0uowFSEea8spVP2TpCOg" id="org.talend.repository.model.migration.TickDieOnError4tFileUnarchive" breaks="6.1.0" version="6.1.1" status="noimpact"/>
     <migrationTask xmi:id="_1i0upAFSEea8spVP2TpCOg" id="org.talend.repository.model.migration.ChangeLogLevel4tRedshiftInput" breaks="6.2.0" version="6.2.0" status="noimpact"/>
     <migrationTask xmi:id="_1i0upQFSEea8spVP2TpCOg" id="org.talend.repository.model.migration.AddContextCommentValueMigrationTask" breaks="6.1.0" version="6.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_Z6cRQAFcEeaF4dVs4XKRyQ" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Z6cRQQFcEeaF4dVs4XKRyQ" id="org.talend.designer.esb.webservice.ConsumerFaultResponseMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
-    <migrationTask xmi:id="_Z6cRQgFcEeaF4dVs4XKRyQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_2F4LQAFnEeauP5S2nqdxwA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_2F4yUAFnEeauP5S2nqdxwA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_0s7n4gFSEea8spVP2TpCOg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_0s7n4wFSEea8spVP2TpCOg" project="_0s7n4QFSEea8spVP2TpCOg" branch="master" referencedBranch="branches/branch1">
