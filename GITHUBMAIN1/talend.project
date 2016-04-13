@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_0s7n4QFSEea8spVP2TpCOg" label="githubMain1" description="" language="java" technicalLabel="GITHUBMAIN1" creationDate="2016-04-13T16:23:28.440+0800" author="_0s7n4gFSEea8spVP2TpCOg" referencedProjects="_0s7n4wFSEea8spVP2TpCOg" productVersion="Talend Open Studio for Data Integration-6.2.0" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/wdliu/main1.git&quot;,&quot;login&quot;:&quot;wdliu&quot;,&quot;passwd&quot;:&quot;JtnH8WJpbQfOPF6keKGLEw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_0s7n4gFSEea8spVP2TpCOg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:ProjectReference xmi:id="_0s7n4wFSEea8spVP2TpCOg" project="_0s7n4QFSEea8spVP2TpCOg" branch="master" referencedBranch="branches/branch1">
+    <referencedProject href="../GITHUBREFERENCE1/talend.project#projectReference"/>
+  </TalendProperties:ProjectReference>
+</xmi:XMI>
