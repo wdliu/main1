@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_0s7n4QFSEea8spVP2TpCOg" label="githubMain1" description="" language="java" technicalLabel="GITHUBMAIN1" creationDate="2016-04-13T16:23:28.440+0800" author="_0s7n4gFSEea8spVP2TpCOg" referencedProjects="_0s7n4wFSEea8spVP2TpCOg" productVersion="Talend Open Studio for Data Integration-6.2.0" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/wdliu/main1.git&quot;,&quot;login&quot;:&quot;wdliu&quot;,&quot;passwd&quot;:&quot;JtnH8WJpbQfOPF6keKGLEw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <technicalStatus xmi:id="_1S8fAAFSEea8spVP2TpCOg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_1S8fAQFSEea8spVP2TpCOg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_1S8fAgFSEea8spVP2TpCOg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_1S4NkAFSEea8spVP2TpCOg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_1S4NkQFSEea8spVP2TpCOg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_1S4NkgFSEea8spVP2TpCOg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_1PYNoAFSEea8spVP2TpCOg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_1PYNoQFSEea8spVP2TpCOg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_1PYNogFSEea8spVP2TpCOg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
@@ -22,4 +28,5 @@
   <TalendProperties:ProjectReference xmi:id="_0s7n4wFSEea8spVP2TpCOg" project="_0s7n4QFSEea8spVP2TpCOg" branch="master" referencedBranch="branches/branch1">
     <referencedProject href="../GITHUBREFERENCE1/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_PLmUgAFSEeabzr0sEtzJNw" login="githubUser@user.com" firstName="github" lastName="github" type="DI" additionnalData="{}"/>
 </xmi:XMI>
