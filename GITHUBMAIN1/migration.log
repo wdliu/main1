@@ -289,3 +289,5 @@
  * Task [TickDieOnError4tFileUnarchive] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
  ---=== End of migration ===---
+ ---=== Start Migration of project githubMain1 ===---
+ * Task [MoveHDFSAndHCatalogToHadoopFolderMigrationTask] : Applied successfully

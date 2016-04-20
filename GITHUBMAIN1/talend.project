@@ -243,7 +243,6 @@
     <migrationTask xmi:id="_X4QPlAa7EeaLKtsc1lpnVQ" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_X4QPlQa7EeaLKtsc1lpnVQ" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_X4QPlga7EeaLKtsc1lpnVQ" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_X4QPlwa7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_X4QPmAa7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_X4QPmQa7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_X4QPmga7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -395,6 +394,7 @@
     <migrationTask xmi:id="_X4Q2oga7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.spark.RenameSparkVersions" breaks="6.1.0" version="6.1.0" status="noimpact"/>
     <migrationTask xmi:id="_X4Q2owa7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.TickDieOnError4tFileUnarchive" breaks="6.1.0" version="6.1.1" status="noimpact"/>
     <migrationTask xmi:id="_X4Q2pAa7EeaLKtsc1lpnVQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_8yKYoAbvEeavqNFRkmCWEA" id="org.talend.repository.hadoopcluster.model.migration.MoveHDFSAndHCatalogToHadoopFolderMigrationTask" breaks="5.3.0" version="5.3.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_W757wga7EeaLKtsc1lpnVQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_W757wwa7EeaLKtsc1lpnVQ" project="_W757wQa7EeaLKtsc1lpnVQ" branch="master" referencedBranch="branches/branch1">
