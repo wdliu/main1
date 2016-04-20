@@ -400,4 +400,5 @@
   <TalendProperties:ProjectReference xmi:id="_W757wwa7EeaLKtsc1lpnVQ" project="_W757wQa7EeaLKtsc1lpnVQ" branch="master" referencedBranch="branches/branch1">
     <referencedProject href="../GITHUBREFERENCE1/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_Uwx2EQa9Eeab86MTLVfBtg" login="user@user.com" firstName="user" lastName="user" type="DI" additionnalData="{}"/>
 </xmi:XMI>
