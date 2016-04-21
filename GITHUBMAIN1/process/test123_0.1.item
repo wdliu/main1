@@ -104,7 +104,7 @@
     <routinesParameter id="_1VakMAFSEea8spVP2TpCOg" name="TalendDate"/>
     <routinesParameter id="_1VdAcAFSEea8spVP2TpCOg" name="TalendString"/>
   </parameters>
-  <node componentName="tWebService" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="320" posY="224">
+  <node componentName="tWebService" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="224" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tWebService_1" show="false"/>
     <elementParameter field="EXTERNAL" name="SERVICE_CONFIGURATION" value=""/>
     <elementParameter field="CLOSED_LIST" name="MAPPING_DISPLAY" value="AUTO"/>
