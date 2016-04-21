@@ -369,12 +369,14 @@
     <migrationTask xmi:id="_1i0upAFSEea8spVP2TpCOg" id="org.talend.repository.model.migration.ChangeLogLevel4tRedshiftInput" breaks="6.2.0" version="6.2.0" status="noimpact"/>
     <migrationTask xmi:id="_1i0upQFSEea8spVP2TpCOg" id="org.talend.repository.model.migration.AddContextCommentValueMigrationTask" breaks="6.1.0" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Z6cRQQFcEeaF4dVs4XKRyQ" id="org.talend.designer.esb.webservice.ConsumerFaultResponseMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
-    <migrationTask xmi:id="_X1_OYAYLEeabhsIUpbaKPg" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_X1_OYQYLEeabhsIUpbaKPg" id="org.talend.designer.mapreduce.repository.migration.UnifyPasswordEncryption4ParametersInMRJobMigrationTask" breaks="5.6.0" version="5.6.0" status="noimpact"/>
     <migrationTask xmi:id="_X1_OYgYLEeabhsIUpbaKPg" id="org.talend.repository.storm.repository.migration.UnifyPasswordEncryption4ParametersInStormJobMigrationTask" breaks="5.6.0" version="5.6.0" status="noimpact"/>
     <migrationTask xmi:id="_X1_OYwYLEeabhsIUpbaKPg" id="org.talend.repository.storm.repository.migration.CheckAndAddFrameworkForStormJobMigrationTask" breaks="6.0.0" version="6.0.0" status="noimpact"/>
     <migrationTask xmi:id="_X1_OZAYLEeabhsIUpbaKPg" id="org.talend.designer.mapreduce.repository.migration.CheckAndAddFrameworkForMapReduceJobMigrationTask" breaks="6.0.0" version="6.0.0" status="noimpact"/>
-    <migrationTask xmi:id="_X1_1cAYLEeabhsIUpbaKPg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_0vwBUAezEeaWUN1l2jW0lA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_0vwBUQezEeaWUN1l2jW0lA" id="org.talend.designer.core.generic.model.migration.NewSalesforceMigrationTask" breaks="6.2.0" version="6.2.0" status="ok"/>
+    <migrationTask xmi:id="_0vwBUgezEeaWUN1l2jW0lA" id="org.talend.repository.generic.model.migration.NewSalesforceMigrationTask" breaks="6.2.0" version="6.2.0" status="noimpact"/>
+    <migrationTask xmi:id="_0vwBUwezEeaWUN1l2jW0lA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_0s7n4gFSEea8spVP2TpCOg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_PLmUgAFSEeabzr0sEtzJNw" login="githubUser@user.com" firstName="github" lastName="github" type="DI" additionnalData="{}"/>

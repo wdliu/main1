@@ -314,3 +314,8 @@
  * Task [CheckAndAddFrameworkForMapReduceJobMigrationTask] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
  ---=== End of migration ===---
+ * Task [Fix a problem of project resources linked to items] : Applied successfully
+ * Task [NewSalesforceMigrationTask] : Applied successfully
+ * Task [NewGenericWizardMigrationTask] : Nothing to do
+ * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
+ ---=== End of migration ===---
