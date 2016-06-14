@@ -1,7 +1,7 @@
 package routines;
 
 /*
- * user specification: the function's comment should contain keys as follows: 1. write about the function's comment.but
+ * user specififsdfsdfcation: the function's comment should contain keys as follows: 1. write about the function's comment.but
  * it must be before the "{talendTypes}" key.
  * 
  * 2. {talendTypes} 's value must be talend Type, it is required . its value should be one of: String, char | Character,
