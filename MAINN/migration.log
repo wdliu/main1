@@ -347,3 +347,4 @@
  * Task [NewGenericWizardMigrationTask] : Nothing to do
  * Task [Salesforce620WizardMigration] : Nothing to do
  * Task [AutoUpdateRelationsMigrationTask] : Nothing to do
+ ---=== End of migration ===---
