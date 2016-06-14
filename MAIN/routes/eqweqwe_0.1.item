@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_yNl2QDHnEeauKpWUF3ggLA" defaultContext="Default" jobType="Standard">
+  <context xmi:id="_yNl2QTHnEeauKpWUF3ggLA" confirmationNeeded="false" name="Default"/>
+  <parameters xmi:id="_yNl2QjHnEeauKpWUF3ggLA">
+    <elementParameter xmi:id="_yNl2QzHnEeauKpWUF3ggLA" field="TEXT" name="REPOSITORY_CONNECTION_ID" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2RDHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_PROPERTY_TYPENAME" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2RTHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_HADOOP_DISTRIBUTION" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2RjHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_HADOOP_VERSION" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2RzHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_ENABLE_KERBEROS" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2SDHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_NAME_NODE_PRINCIPAL" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2STHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_USERNAME" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2SjHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_GROUP" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2SzHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_USE_KEYTAB" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2TDHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_KT_PRINCIPAL" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2TTHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_KEY_TAB" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2TjHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_ENABLE_OO_KERBEROS" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2TzHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_NAME_NODE_END_POINT" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2UDHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_JOB_TRACKER_ENDPOINT" value="" show="false"/>
+    <elementParameter xmi:id="_yNl2UTHnEeauKpWUF3ggLA" field="TEXT" name="OOZIE_END_POINT" value="" show="false"/>
+    <routinesParameter xmi:id="_yL50MDHnEeauKpWUF3ggLA" id="_mBw1wCDUEea1c7bA5FpsZg" name="DataOperation"/>
+    <routinesParameter xmi:id="_yL50MTHnEeauKpWUF3ggLA" id="_mCufECDUEea1c7bA5FpsZg" name="Mathematical"/>
+    <routinesParameter xmi:id="_yL50MjHnEeauKpWUF3ggLA" id="_mCxiYCDUEea1c7bA5FpsZg" name="Numeric"/>
+    <routinesParameter xmi:id="_yL50MzHnEeauKpWUF3ggLA" id="_mCz-oCDUEea1c7bA5FpsZg" name="Relational"/>
+    <routinesParameter xmi:id="_yL50NDHnEeauKpWUF3ggLA" id="_Nb0rcCF8EeaZ16dYg_9-PA" name="SQLike"/>
+    <routinesParameter xmi:id="_yL50NTHnEeauKpWUF3ggLA" id="_mC3B8CDUEea1c7bA5FpsZg" name="StringHandling"/>
+    <routinesParameter xmi:id="_yL50NjHnEeauKpWUF3ggLA" id="_mC5eMCDUEea1c7bA5FpsZg" name="TalendDataGenerator"/>
+    <routinesParameter xmi:id="_yL50NzHnEeauKpWUF3ggLA" id="_mC7TYCDUEea1c7bA5FpsZg" name="TalendDate"/>
+    <routinesParameter xmi:id="_yL50ODHnEeauKpWUF3ggLA" id="_mC9voCDUEea1c7bA5FpsZg" name="TalendString"/>
+  </parameters>
+</talendfile:ProcessType>
