@@ -2,6 +2,8 @@
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" name="Default"/>
   <parameters>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_X" value="0" show="false"/>
+    <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" value="0" show="false"/>
     <elementParameter field="TEXT" name="REPOSITORY_CONNECTION_ID" value="" show="false"/>
     <elementParameter field="TEXT" name="OOZIE_PROPERTY_TYPENAME" value="" show="false"/>
     <elementParameter field="TEXT" name="OOZIE_HADOOP_DISTRIBUTION" value="" show="false"/>
@@ -106,4 +108,5 @@
     <routinesParameter id="__3GY4DHnEeauKpWUF3ggLA" name="qqq"/>
     <routinesParameter id="_AN0KoDOnEeaj0fsNsMOVNw" name="wqeqwe"/>
   </parameters>
+  <note opaque="true" posX="160" posY="96" sizeHeight="64" sizeWidth="96" text="text"/>
 </talendfile:ProcessType>
