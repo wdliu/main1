@@ -103,10 +103,12 @@
     <routinesParameter id="_mC5eMCDUEea1c7bA5FpsZg" name="TalendDataGenerator"/>
     <routinesParameter id="_mC7TYCDUEea1c7bA5FpsZg" name="TalendDate"/>
     <routinesParameter id="_mC9voCDUEea1c7bA5FpsZg" name="TalendString"/>
+    <routinesParameter id="_N02oEDOnEeaj0fsNsMOVNw" name="ddd"/>
     <routinesParameter id="_rvDbkDKiEea3zdXL97R7Yg" name="qweqweqwe"/>
     <routinesParameter id="__3GY4DHnEeauKpWUF3ggLA" name="qqq"/>
+    <routinesParameter id="_AN0KoDOnEeaj0fsNsMOVNw" name="wqeqwe"/>
   </parameters>
-  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="384" posY="224">
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="320" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
     <elementParameter field="RADIO" name="BASIC_MODE" value="true"/>
     <elementParameter field="RADIO" name="TABLE_PRINT" value="false"/>
