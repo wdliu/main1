@@ -108,7 +108,7 @@
     <routinesParameter id="__3GY4DHnEeauKpWUF3ggLA" name="qqq"/>
     <routinesParameter id="_AN0KoDOnEeaj0fsNsMOVNw" name="wqeqwe"/>
   </parameters>
-  <node componentName="tSAPDataSourceReceiver" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="576" posY="128">
+  <node componentName="tSAPDataSourceReceiver" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="128" sizeX="128" sizeY="32">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSAPDataSourceReceiver_1" show="false"/>
     <elementParameter field="CHECK" name="FAILOVER" value="false" show="false"/>
     <elementParameter field="TEXT" name="SERVERADDRESS" value="&quot;localhost&quot;"/>
