@@ -123,7 +123,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tLogRow_1"/>
   </node>
-  <node componentName="tSAPDataSourceReceiver" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="384" posY="96">
+  <node componentName="tSAPDataSourceReceiver" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSAPDataSourceReceiver_1" show="false"/>
     <elementParameter field="CHECK" name="FAILOVER" value="false" show="false"/>
     <elementParameter field="TEXT" name="SERVERADDRESS" value="&quot;localhost&quot;"/>
