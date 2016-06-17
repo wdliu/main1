@@ -108,5 +108,5 @@
     <routinesParameter id="__3GY4DHnEeauKpWUF3ggLA" name="qqq"/>
     <routinesParameter id="_AN0KoDOnEeaj0fsNsMOVNw" name="wqeqwe"/>
   </parameters>
-  <note opaque="true" posX="160" posY="96" sizeHeight="64" sizeWidth="96" text="text"/>
+  <note opaque="true" posX="288" posY="96" sizeHeight="64" sizeWidth="96" text="text"/>
 </talendfile:ProcessType>
