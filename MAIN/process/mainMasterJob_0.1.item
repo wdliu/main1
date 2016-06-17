@@ -104,7 +104,7 @@
     <routinesParameter id="_mC9voCDUEea1c7bA5FpsZg" name="TalendString"/>
     <routinesParameter id="_Nb0rcCF8EeaZ16dYg_9-PA" name="SQLike"/>
   </parameters>
-  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="128" posY="128">
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="224" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
     <elementParameter field="RADIO" name="BASIC_MODE" value="true"/>
     <elementParameter field="RADIO" name="TABLE_PRINT" value="false"/>
@@ -123,7 +123,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tLogRow_1"/>
   </node>
-  <node componentName="tSAPDataSourceReceiver" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="256" posY="96">
+  <node componentName="tSAPDataSourceReceiver" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="384" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSAPDataSourceReceiver_1" show="false"/>
     <elementParameter field="CHECK" name="FAILOVER" value="false" show="false"/>
     <elementParameter field="TEXT" name="SERVERADDRESS" value="&quot;localhost&quot;"/>
