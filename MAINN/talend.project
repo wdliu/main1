@@ -109,6 +109,7 @@
       <relatedItems xmi:id="_Ke_Hqz9cEeamkIHJE5GwxA" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
     <customComponentSettings xmi:id="_Zt9kcDGAEeah-ei2YrNoVw" name="TEST" share="true"/>
+    <deletedFolders>process/qeqweq</deletedFolders>
     <migrationTask xmi:id="_SbcUgDE9EeaY-uVhZatgHg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SbcUgTE9EeaY-uVhZatgHg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SbcUgjE9EeaY-uVhZatgHg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
